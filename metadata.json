@@ -1,0 +1,6 @@
+{
+  "name": "Distributed Event Processing System",
+  "description": "A college-level distributed event processing system demonstrating partitioning, workers, concurrency, acknowledgements, retries, DLQ, failure recovery, and autoscaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

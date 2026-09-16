@@ -1,0 +1,62 @@
+[
+  {
+    "num_events": 200,
+    "worker_count": 1,
+    "peak_workers": 1,
+    "mode": "Static",
+    "completed": 200,
+    "total_time_seconds": 0.585,
+    "throughput_eps": 341.66,
+    "avg_latency_ms": 1.29
+  },
+  {
+    "num_events": 200,
+    "worker_count": 2,
+    "peak_workers": 2,
+    "mode": "Static",
+    "completed": 200,
+    "total_time_seconds": 0.448,
+    "throughput_eps": 446.92,
+    "avg_latency_ms": 1.55
+  },
+  {
+    "num_events": 200,
+    "worker_count": 4,
+    "peak_workers": 4,
+    "mode": "Static",
+    "completed": 200,
+    "total_time_seconds": 0.381,
+    "throughput_eps": 525.17,
+    "avg_latency_ms": 4.04
+  },
+  {
+    "num_events": 1000,
+    "worker_count": 4,
+    "peak_workers": 4,
+    "mode": "Static",
+    "completed": 1000,
+    "total_time_seconds": 1.617,
+    "throughput_eps": 618.53,
+    "avg_latency_ms": 3.39
+  },
+  {
+    "num_events": 300,
+    "worker_count": 1,
+    "peak_workers": 1,
+    "mode": "Static",
+    "completed": 300,
+    "total_time_seconds": 0.851,
+    "throughput_eps": 352.69,
+    "avg_latency_ms": 1.31
+  },
+  {
+    "num_events": 300,
+    "worker_count": 1,
+    "peak_workers": 4,
+    "mode": "Autoscaled",
+    "completed": 300,
+    "total_time_seconds": 5.855,
+    "throughput_eps": 51.24,
+    "avg_latency_ms": 20.19
+  }
+]
